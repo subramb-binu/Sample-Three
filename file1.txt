@@ -1,0 +1,3 @@
+// This is a file created on the command line
+// This file is created under a locally created repository
+// The idea is to push this on to the git repository
